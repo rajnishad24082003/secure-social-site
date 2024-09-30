@@ -100,7 +100,7 @@ const Login = (props) => {
                 paddingBottom: "1.5rem",
               }}
             >
-              Log in to join the conversation
+              Log in to join the conversation(for testing:(email: temp@gmail.com ,password: 123456789 ))
             </p>
           </div>
           <input
