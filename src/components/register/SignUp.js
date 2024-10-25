@@ -180,14 +180,14 @@ const SignUp = (props) => {
               }}
             >
               <span>
-                I have read the Vox's{" "}
+                I have read the Peer Mesh's{" "}
                 <a
                   href="https://www.termsfeed.com/live/6a553b76-190f-4f10-95c1-60112f99de78"
                   style={{ color: "#8555ff" }}
                 >
                   Terms of Service
                 </a>{" "}
-                and agree to sell my data and my soul to Vox.
+                and agree to sell my data and my soul to Peer Mesh.
               </span>
             </div>
           </div>
